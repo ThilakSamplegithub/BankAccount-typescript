@@ -2,7 +2,7 @@
   "devDependencies": {
     "tsc": "^2.0.4"
   },
-  "script":{
-    "serve":"tsc src/1.ts"
+  "script": {
+    "serve": "tsc src/1.ts"
   }
 }
